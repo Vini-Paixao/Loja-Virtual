@@ -42,7 +42,7 @@ jobs:
         with:
           source: ./
           config: _config.yml
-          destination: ./loja-virtual
+          destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
@@ -59,4 +59,4 @@ jobs:
         uses: actions/deploy-pages@v2
         with:
           personal_token: ${{ secrets.ACCESS_TOKEN }}
-          publish_dir: ./loja-virtual
+          publish_dir: ./_site

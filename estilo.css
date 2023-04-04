@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin:0;
+}
+.navbar{
+    margin-bottom:0;
+}
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #e6e6e6;
+}
+.copyright {
+    background-color: #ffffff;
+}
+.copyright p {
+margin: 15px 0px;
+}
+footer{
+    background-color:#000000;
+    padding: 20px;
+}
+footer .menu li a {
+    color:#ffffff;
+    padding: 10px;
+    text-decoration:none;
+    font-size: 17px;
+}
+footer .menu li a:hover {
+    color:#fdeb00;
+}
+.fa.fa-instagram , 
+.fa.fa-facebook , 
+.fa.fa-twitter {
+    color: #ffffff;
+    font-size: 30px;
+    padding: 10px;
+}
+.fa.fa-instagram:hover, 
+.fa.fa-facebook:hover, 
+.fa.fa-twitter:hover {
+    color: #fdeb00;
+}
+#imgfooter{
+    width: 7vw;
+}
+.links{
+    margin-top: 50px;
+}
+.menu list-inline{
+    margin-top: 50px;
+}

@@ -10,7 +10,7 @@ A aplicação possui as seguintes funcionalidades:
 4- Finalização de pedido<br>
 
 ## Como executar o projeto
-Antes de iniciar, é necessário ter o PHP e um servidor local (Apache) e uma IDE instalado na máquina. Após isso, siga os seguintes passos:
+Antes de iniciar, é necessário ter o PHP, um servidor local (Apache) e uma IDE instalado na máquina. Após isso, siga os seguintes passos:
 
 1- Clone este repositório
 ```Git

@@ -1,11 +1,47 @@
 ## Loja Virtual - Emperium Street Wear
+Este projeto é uma aplicação web para uma loja virtual, desenvolvido com PHP
 
-Desenvolvido em PHP, uma loja virtual de peças de roupa no estilo Street-Wear.
+## Funcionalidades
+A aplicação possui as seguintes funcionalidades:
 
-Projeto contém uma página inicial com a visualização dos produtos e botões para mais informações e comprar. O usuário só pode efetuar uma compra se estiver logado no site, para se cadastrar existe uma verificação de e-mail e nome de usuário (para saber se já existe no banco de dados).
+1- Cadastro de produtos e categorias<br>
+2- Busca de produtos por nome e categoria<br>
+3- Carrinho de compras<br>
+4- Finalização de pedido<br>
 
-O site ao efetuar uma compra gera um código único de pedido que poderia ser utilizado para verificar o status da sua compra dentro do site.
+## Como executar o projeto
+Antes de iniciar, é necessário ter o PHP e um servidor local (Apache) e uma IDE instalado na máquina. Após isso, siga os seguintes passos:
 
-##
+1- Clone este repositório
+```Git
+git clone https://github.com/Vini1404/Loja-Virtual.git
+```
+2- Instale as dependências
+```
+cd Loja-Virtual
+npm install
+```
+3- Inicie o servidor Apache.
 
-Projeto desenvolvido durante o 2º módulo completo na Etec Prof. Basilides de Godoy
+4- Abra o Apache e acesse a pasta do projeto no seu navegador.
+
+## Como contribuir
+Se deseja contribuir com o projeto, siga os seguintes passos:
+
+1- Faça um fork deste repositório<br>
+2- Crie uma branch com a sua feature
+```
+git checkout -b minha-feature
+```
+3- Faça commit das suas alterações
+```
+git commit -m 'feat: Minha nova feature'
+```
+4- Faça push para a sua branch
+```
+git push origin minha-feature
+```
+5- Abra um Pull Request
+
+## Licença
+Este projeto foi desenvolvido por Marcus Vinicius de Aguiar Paixão na Etec Prof. Basilides de Godoy

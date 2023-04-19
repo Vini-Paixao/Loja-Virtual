@@ -1,4 +1,4 @@
-## Loja Virtual - Emperium Street Wear
+## Loja Virtual - Emperium Street Wear <img align="center" alt="Vini-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 Este projeto é uma aplicação web para uma loja virtual, desenvolvido com PHP
 
 ## Funcionalidades

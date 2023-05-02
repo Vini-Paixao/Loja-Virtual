@@ -44,4 +44,6 @@ git push origin minha-feature
 5- Abra um Pull Request
 
 ## Licença
-Este projeto foi desenvolvido por Marcus Vinicius de Aguiar Paixão na Etec Prof. Basilides de Godoy
+Este projeto é licenciado sob a licença MIT - consulte o arquivo LICENSE.md para obter mais detalhes.
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Vini1404/Loja-Virtual/blob/main/LICENSE.md)

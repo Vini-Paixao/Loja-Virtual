@@ -1,5 +1,5 @@
 <?php
-include 'conexão.php';
+include 'conexao.php';
 session_start();
 
 $Vemail = $_POST['txtemail'];

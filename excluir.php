@@ -1,6 +1,6 @@
 <?php
 
-include 'conexão.php';  // conexao com banco de dados
+include 'conexao.php';  // conexao com banco de dados
 
 $cd = $_GET['id'];  // pegando o id que é enviado pelo botão excluir que esta na pagina lista.php
 

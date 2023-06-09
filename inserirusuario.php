@@ -1,5 +1,5 @@
 <?php
-include 'conexão.php';
+include 'conexao.php';
 
 $nome = $_POST['txtnome'];
 $sobrenome = $_POST['txtsobrenome'];

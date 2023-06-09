@@ -1,5 +1,5 @@
 <?php
-include 'conexão.php';  // include com arquivo de conexao
+include 'conexao.php';  // include com arquivo de conexao
 include 'resize-class.php';
 
 //variáveis que vão receber os dados do formulário que esta na pagina formProduto

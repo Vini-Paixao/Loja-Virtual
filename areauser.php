@@ -21,7 +21,7 @@
     if(empty($_SESSION['ID'])){
         header('location:index.php');
     }
-	include 'conexão.php';	
+	include 'conexao.php';	
 	include 'nav.php';
 	include 'cabecalho.html';
 	?>

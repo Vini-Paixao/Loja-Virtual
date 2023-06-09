@@ -22,7 +22,7 @@
 	if(empty($_SESSION['ID'])){
 		header('location:formlogin.php'); // enviando para formlogon.php
 	}
-	include 'conexão.php';	// incluindo arquivo de conexão
+	include 'conexao.php';	// incluindo arquivo de conexao
 	include 'nav.php'; // incluindo arquivo barra de navegação
 	include 'cabecalho.html'; // incluindo cabeçalho
 	

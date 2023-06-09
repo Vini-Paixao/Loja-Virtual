@@ -19,7 +19,7 @@
 	<?php
 	
 	session_start();
-	include 'conexão.php';	
+	include 'conexao.php';	
 	include 'nav.php';
 	include 'cabecalho.html';
 

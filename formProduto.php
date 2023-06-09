@@ -28,7 +28,7 @@
     if(empty($_SESSION['Status']) || $_SESSION['Status'] != 1){
         header('location:index.php');
     }
-	include 'conexão.php';	
+	include 'conexao.php';	
 	include 'nav.php';
 	include 'cabecalho.html';
 

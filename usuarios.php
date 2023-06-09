@@ -22,7 +22,7 @@
 			header('location:index.php');  // redireciona para página index.php
 	}
 	$cd = $_SESSION['ID'];
-	include 'conexão.php';	
+	include 'conexao.php';	
 	include 'nav.php';
 	include 'cabecalho.html';
 	$consulta = $cn->query("SELECT * FROM tbl_usuario WHERE id_usuario ='$cd'");	

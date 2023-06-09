@@ -30,7 +30,7 @@
 	$cd = $_GET['id'];
 	$cd2 = $_GET['id2'];
 	$cd3 = $_GET['id3'];
-	include 'conexão.php';	
+	include 'conexao.php';	
 	include 'nav.php';
 	include 'cabecalho.html';
 	$consulta = $cn->query("SELECT * FROM tbl_produtos WHERE id_produto='$cd'");	

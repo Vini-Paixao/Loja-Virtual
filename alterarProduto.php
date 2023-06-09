@@ -1,5 +1,5 @@
 <?php
-include 'conexão.php';  // incluindo a conexao
+include 'conexao.php';  // incluindo a conexao
 include 'resize-class.php'; // classe para redimensionar imagem
 $cd_produto = $_GET['cd_altera'];  // variavel recebe o código do livro que acabamos de receber do formulário
 

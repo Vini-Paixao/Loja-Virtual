@@ -1,5 +1,5 @@
 <?php
-include 'conexão.php';  // incluindo a conexao
+include 'conexao.php';  // incluindo a conexao
 $cd_usuario = $_GET['id_altera'];  // variavel recebe o código do livro que acabamos de receber do formulário
 
 // todas as laterações feitas nos campos serão salvas nas variaveis abaixo

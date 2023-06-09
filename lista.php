@@ -21,7 +21,7 @@
 	if(empty($_SESSION['Status']) || $_SESSION['Status'] != 1){
 			header('location:index.php');  // redireciona para página index.php
 	}
-	include 'conexão.php';	
+	include 'conexao.php';	
 	include 'nav.php';
 	include 'cabecalho.html';
 	$consulta = $cn->query("select * from tbl_produtos");

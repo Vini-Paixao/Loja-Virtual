@@ -9,21 +9,9 @@ A aplicação possui as seguintes funcionalidades:
 3- Carrinho de compras<br>
 4- Finalização de pedido<br>
 
-## Como executar o projeto
-Antes de iniciar, é necessário ter o PHP, um servidor local (Apache) e uma IDE instalado na máquina. Após isso, siga os seguintes passos:
-
-1- Clone este repositório
-```Git
-git clone https://github.com/Vini1404/Loja-Virtual.git
-```
-2- Instale as dependências
-```
-cd Loja-Virtual
-npm install
-```
-3- Inicie o servidor Apache.
-
-4- Abra o Apache e acesse a pasta do projeto no seu navegador.
+## Como visualizar o projeto
+O site já está hospedado entãopara visualizar.<br>
+[Clique Aqui!](https://loja-virtual.marcuspaixao.com.br/)
 
 ## Como contribuir
 Se deseja contribuir com o projeto, siga os seguintes passos:

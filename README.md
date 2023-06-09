@@ -10,7 +10,7 @@ A aplicação possui as seguintes funcionalidades:
 4- Finalização de pedido<br>
 
 ## Como visualizar o projeto
-O site já está hospedado entãopara visualizar.<br>
+O site já está hospedado então para visualizar.<br>
 [Clique Aqui!](https://loja-virtual.marcuspaixao.com.br/)
 
 ## Como contribuir
